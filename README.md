@@ -49,3 +49,7 @@ Para analise de desempenho em ambiente interativo:
 ## Consultoria em Desempenho Web e Aceleracao
 
 Para projetos de otimizacao tecnica alinhados com Normas Europeias de Desempenho Web e W3C, consulte a equipa da **TAVARDT Portugal**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
