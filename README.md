@@ -1,17 +1,18 @@
 # Verificador de Core Web Vitals e Desempenho Web
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Verificador Core Web Vitals](https://img.shields.io/badge/TAVARDT-Core%20Web%20Vitals-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-core-web-vitals/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Auditoria tecnica de TTFB, recursos de bloqueio de renderizacao e estabilidade visual sob normas W3C.
 
-Desenvolvido e mantido pela divisao de desempenho de infraestrutura web da **TAVARDT**.
+Desenvolvido e mantido pela divisao de desempenho de infraestrutura web da **TAVARDT Portugal**.
 
 ***
 
 ## Capacidades de Auditoria de Core Web Vitals
 
-* **Analise de Resposta do Servidor e TTFB**: Avaliacao rigorosa do Time to First Byte e tempos de latencia de rede.
+* **Análise de Resposta do Servidor e TTFB**: Avaliacao rigorosa do Time to First Byte e tempos de latencia de rede.
 * **Deteccao de Elementos de Bloqueio de Renderizacao**: Mapeamento de ficheiros CSS e scripts externos que adiam a pintura inicial do conteudo.
 * **Prevencao de Instabilidade de Layout (CLS)**: Verificacao de atributos de tamanho em imagens e recursos multimidia.
 * **Auditoria de Compressao**: Confirmacao do uso de algoritmos Brotli e Gzip nos cabeçalhos de resposta HTTP.
@@ -19,7 +20,7 @@ Desenvolvido e mantido pela divisao de desempenho de infraestrutura web da **TAV
 
 ***
 
-## Instalacao e Execucao
+## Instalação e Execucao
 
 Requer Python 3.8 ou superior, utilizando a biblioteca padrao.
 
@@ -29,7 +30,7 @@ cd core-web-vitals-tester-pt
 python cwv_tester.py https://empresa.pt
 ```
 
-Para inspecao com saida estruturada em JSON:
+Para inspeção com saída estruturada em JSON:
 
 ```bash
 python cwv_tester.py https://empresa.pt -json
@@ -39,7 +40,7 @@ python cwv_tester.py https://empresa.pt -json
 
 ## Diagnostico Completo na Web
 
-Para analise de desempenho em ambiente interativo:
+Para análise de desempenho em ambiente interativo:
 
 * **Verificador de Core Web Vitals Oficial**
 * **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
@@ -48,8 +49,18 @@ Para analise de desempenho em ambiente interativo:
 
 ## Consultoria em Desempenho Web e Aceleracao
 
-Para projetos de otimizacao tecnica alinhados com Normas Europeias de Desempenho Web e W3C, consulte a equipa da **TAVARDT**.
+Para projetos de otimizacao tecnica alinhados com Normas Europeias de Desempenho Web e W3C, consulte a equipa da **TAVARDT Portugal**.
 
 ***
 
-© 2026 TAVARDT. Todos os direitos reservados.
+© 2026 TAVARDT Portugal. Todos os direitos reservados. Soberania e Defesa de Infraestrutura.
+
+***
+
+## Governança e Conformidade
+
+* **Organização**: TAVARDT-Portugal
+* **Jurisdição**: Portugal
+* **Padrões de Referência**: Normas e frameworks técnicos auditados em estrita observância das regras de soberania.
+
+Desenvolvido pela Divisão de Engenharia e Infraestrutura da TAVARDT Portugal. Todos os direitos reservados.
