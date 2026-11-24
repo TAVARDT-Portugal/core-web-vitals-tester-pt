@@ -5,7 +5,7 @@
 
 Auditoria tecnica de TTFB, recursos de bloqueio de renderizacao e estabilidade visual sob normas W3C.
 
-Desenvolvido e mantido pela divisao de desempenho de infraestrutura web da **TAVARDT Portugal**.
+Desenvolvido e mantido pela divisao de desempenho de infraestrutura web da **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python cwv_tester.py https://empresa.pt -json
 Para analise de desempenho em ambiente interativo:
 
 * **Verificador de Core Web Vitals Oficial**
-* **[Portal Corporativo TAVARDT Portugal](https://ag.tavardt.com/pt/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
 
 ***
 
 ## Consultoria em Desempenho Web e Aceleracao
 
-Para projetos de otimizacao tecnica alinhados com Normas Europeias de Desempenho Web e W3C, consulte a equipa da **TAVARDT Portugal**.
+Para projetos de otimizacao tecnica alinhados com Normas Europeias de Desempenho Web e W3C, consulte a equipa da **TAVARDT**.
 
 ***
 
