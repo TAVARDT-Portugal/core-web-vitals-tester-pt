@@ -1,14 +1,13 @@
 # Verificador de Core Web Vitals e Desempenho Web
 
 [![Verificador Core Web Vitals](https://img.shields.io/badge/TAVARDT-Core%20Web%20Vitals-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-core-web-vitals/)
-[![Jurisdicao](https://img.shields.io/badge/Jurisdicao-Portugal-00C853.svg)](https://ag.tavardt.com/pt/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Auditoria tecnica de TTFB, recursos de bloqueio de renderizacao e estabilidade visual sob normas W3C.
 
-Desenvolvido e mantido pela divisao de desempenho de infraestrutura web da **[TAVARDT Portugal](https://ag.tavardt.com/pt/)**.
+Desenvolvido e mantido pela divisao de desempenho de infraestrutura web da **TAVARDT Portugal**.
 
----
+***
 
 ## Capacidades de Auditoria de Core Web Vitals
 
@@ -18,7 +17,7 @@ Desenvolvido e mantido pela divisao de desempenho de infraestrutura web da **[TA
 * **Auditoria de Compressao**: Confirmacao do uso de algoritmos Brotli e Gzip nos cabeçalhos de resposta HTTP.
 * **Indice de Eficiencia de Carregamento**: Pontuacao tecnica de 0 a 100 com indicacoes de mitigacao.
 
----
+***
 
 ## Instalacao e Execucao
 
@@ -33,20 +32,20 @@ python cwv_tester.py https://empresa.pt
 Para inspecao com saida estruturada em JSON:
 
 ```bash
-python cwv_tester.py https://empresa.pt --json
+python cwv_tester.py https://empresa.pt -json
 ```
 
----
+***
 
 ## Diagnostico Completo na Web
 
 Para analise de desempenho em ambiente interativo:
 
-* **[Verificador de Core Web Vitals Oficial](https://tools.tavardt.com/pt/verificador-core-web-vitals/)**
+* **Verificador de Core Web Vitals Oficial**
 * **[Portal Corporativo TAVARDT Portugal](https://ag.tavardt.com/pt/)**
 
----
+***
 
 ## Consultoria em Desempenho Web e Aceleracao
 
-Para projetos de otimizacao tecnica alinhados com Normas Europeias de Desempenho Web e W3C, consulte a equipa da **[TAVARDT Portugal](https://ag.tavardt.com/pt/contato/)**.
+Para projetos de otimizacao tecnica alinhados com Normas Europeias de Desempenho Web e W3C, consulte a equipa da **TAVARDT Portugal**.
