@@ -2,11 +2,9 @@
 
 [![Verificador Core Web Vitals](https://img.shields.io/badge/TAVARDT-Core%20Web%20Vitals-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-core-web-vitals/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)]
 
 Auditoria tecnica de TTFB, recursos de bloqueio de renderizacao e estabilidade visual sob normas W3C.
-
-Desenvolvido e mantido pela divisao de desempenho de infraestrutura web da **TAVARDT Portugal**.
 
 ***
 
@@ -38,15 +36,6 @@ python cwv_tester.py https://empresa.pt -json
 
 ***
 
-## Diagnostico Completo na Web
-
-Para análise de desempenho em ambiente interativo:
-
-* **Verificador de Core Web Vitals Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
-
-***
-
 ## Consultoria em Desempenho Web e Aceleracao
 
 Para projetos de otimizacao tecnica alinhados com Normas Europeias de Desempenho Web e W3C, consulte a equipa da **TAVARDT Portugal**.
@@ -60,7 +49,7 @@ Para projetos de otimizacao tecnica alinhados com Normas Europeias de Desempenho
 ***
 
 ### Licença
-Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+Distribuído sob a Licença MIT.
 
 ***
 
