@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/pt/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Verificador de Core Web Vitals e Velocidade de Pagina
 
 [![Verificador Core Web Vitals](https://img.shields.io/badge/TAVARDT-Core%20Web%20Vitals-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-core-web-vitals/)
